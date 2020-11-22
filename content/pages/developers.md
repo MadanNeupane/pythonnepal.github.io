@@ -65,6 +65,9 @@ Maintain the list in alphabetical order
 - **Kishor Kumar Mahato**  
 [Email](mailto:cyberkishor@gmail.com) | [Github](https://github.com/cyberkishor) | [Linkedin](https://www.linkedin.com/in/kishrorkumar/) | [BitBucket](https://bitbucket.org/cyberkishor/)
 
+- **Madan Neupane**  
+[Email](mailtto:madanneupane09@gmail.com) | [Github](https://github.com/MadanNeupane) | [Linkedin](https://www.linkedin.com/in/madanneupane/) | [Website](https://madanneupane.com.np)
+
 - **Mandeep Khatry**  
 [Email](mailto:mandeepkhatry1997@gmail.com) | [Github](https://github.com/mandeepkhatry) | [Linkedin](https://www.linkedin.com/in/mandeep-khatry-a1059212a/)
 
